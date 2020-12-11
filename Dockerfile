@@ -18,7 +18,7 @@ FROM alpine:3.9
 
 LABEL maintainer="metowolf <i@i-meto.com>"
 
-ENV GLIBC_VERSION 2.29-r0
+ENV GLIBC_VERSION 2.32-r0
 
 ENV SERVER_HOST 0.0.0.0
 ENV SERVER_PORT 8388
